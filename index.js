@@ -1,1 +1,1 @@
-alert("站点正在搭建中");
+alert( 'FXZ Page Beta版本' );
