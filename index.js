@@ -1,1 +1,0 @@
-alert( 'FXZ Page Beta 0.012版本' );
